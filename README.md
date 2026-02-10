@@ -1,9 +1,9 @@
 ## 👋 Gokul U  
 ### Software Developer | IoT & Embedded Systems | AI & Computer Vision
 
-<table>
-<tr>
-<td width="65%" valign="top">
+<div align="right">
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="280"/>
+</div>
 
 I am a **Software Developer and Freelance IoT Engineer** with experience delivering **15+ real-world IoT and automation projects** under the **GTech IoT initiative**.
 
@@ -11,22 +11,15 @@ My work focuses on building **end-to-end systems** that integrate **software eng
 
 I emphasize **clean architecture, real-time reliability, and scalable system design** in all my projects.
 
-</td>
-<td width="35%" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="280"/>
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 
 ## 🧠 Technical Expertise
 
-<table>
-<tr>
-<td width="65%" valign="top">
+<div align="right">
+  <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="280"/>
+</div>
 
 ### 🧑‍💻 Programming & Computer Science
 <p>
@@ -71,14 +64,7 @@ I emphasize **clean architecture, real-time reliability, and scalable system des
 - Git & GitHub  
 - Linux (Basics)
 
-</td>
-<td width="35%" align="center">
-
-<img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="280"/>
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 
