@@ -1,97 +1,95 @@
-Hi 👋 I’m Gokul U
-================
+## 👋 Gokul U  
+### Software Developer | IoT & Embedded Systems | AI & Computer Vision
 
-### IoT Engineer | Embedded Systems | AI & Computer Vision
+<table>
+<tr>
+<td width="65%" valign="top">
 
----
+I am a **Software Developer and Freelance IoT Engineer** with experience delivering **15+ real-world IoT and automation projects** under the **GTech IoT initiative**.
 
-## About Me
+My work focuses on building **end-to-end systems** that integrate **software engineering, embedded hardware, and AI-driven intelligence**. I have hands-on experience across **system design, development, testing, and deployment**, with a strong foundation in **data structures, computer vision, and applied machine learning**.
 
-I am an **IoT and Embedded Systems developer** with strong interest in building **intelligent, real-time systems** that integrate hardware, software, and data-driven decision making.
+I emphasize **clean architecture, real-time reliability, and scalable system design** in all my projects.
 
-My work spans **sensor networks, edge computing, automation, and computer vision**, with hands-on experience developing deployable prototypes for academic, freelance, and research-oriented projects.
+</td>
+<td width="35%" align="center">
 
-I focus on **clarity in design, reliability in implementation, and scalability in architecture**.
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="280"/>
 
-<img align="right" alt="Engineering Workflow" width="380" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
-
-🔭 Currently working on **IoT + Edge AI systems**  
-🌍 Based in **India**  
-🧠 Actively learning **TinyML, advanced CNNs, and system optimization**  
-🤝 Open to **research projects, internships, and collaborative development**  
-✉️ Contact: **your_email@gmail.com**
-
----
-
-## 🌐 Professional Profiles
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-121011.svg?logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+</td>
+</tr>
+</table>
 
 ---
 
-## 💻 Technical Skills
+## 🧠 Technical Expertise
 
-### Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+<table>
+<tr>
+<td width="65%" valign="top">
 
----
+### 🧑‍💻 Programming & Computer Science
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript" />
+</p>
 
-### IoT & Embedded Systems
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
-![ESP32](https://img.shields.io/badge/ESP32-323232?style=for-the-badge&logo=espressif)
-![NodeMCU](https://img.shields.io/badge/NodeMCU-3C873A?style=for-the-badge)
-![Real--Time Systems](https://img.shields.io/badge/Real--Time_Systems-2E7D32?style=for-the-badge)
-![Sensors](https://img.shields.io/badge/Sensor_Integration-00C853?style=for-the-badge)
+- Data Structures & Algorithms  
+- Object-Oriented Programming (OOP)  
+- Software Development Lifecycle (SDLC)
 
 ---
 
-### AI, Machine Learning & Computer Vision
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge)
-![CNN](https://img.shields.io/badge/Convolutional_Neural_Networks-0A66C2?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![TinyML](https://img.shields.io/badge/TinyML-4285F4?style=for-the-badge)
+### 🔌 IoT & Embedded Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+</p>
+
+- ESP32, Arduino  
+- Sensor integration  
+- Real-time monitoring & automation  
+- Event-driven control systems
 
 ---
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab)
+### 🤖 AI, Machine Learning & Computer Vision
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,python" />
+</p>
+
+- Machine Learning fundamentals  
+- Convolutional Neural Networks (CNNs)  
+- Image preprocessing & dataset engineering  
 
 ---
 
-## 🚀 Selected Projects
+### 🛠️ Systems & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,mysql" />
+</p>
 
-### Smart Helmet for Rider Safety
-Real-time accident detection, alcohol sensing, fatigue monitoring, and GSM-based emergency alerting.
+- DBMS, Operating Systems, Computer Networks  
+- Git & GitHub  
+- Linux (Basics)
 
-### IoT-Enabled Gas & Fire Detection System (TinyML)
-Edge-based hazard detection using trained ML models with low latency alerts.
+</td>
+<td width="35%" align="center">
 
-### Smart Agriculture Monitoring System
-Multi-zone sensing, automated water distribution, solar-powered nodes, and safety monitoring.
+<img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="280"/>
 
-### ESP32 Secure File Encryptor
-AES-based file encryption with QR-code key transfer using on-device storage.
-
-<img align="center" alt="System Architecture" width="600" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
-
----
-
-## 📊 GitHub Statistics
-
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=dark)](https://git.io/streak-stats)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=dark&layout=compact)
+</td>
+</tr>
+</table>
 
 ---
 
-⭐ Repositories showcase **production-oriented IoT and AI projects** with complete documentation.
+### 🤝 Professional Strengths
+- Analytical Thinking  
+- Team Collaboration  
+- Time Management  
+- End-to-End Project Ownership  
+
+---
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="420"/>
+</p>
