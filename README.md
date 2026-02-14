@@ -32,7 +32,7 @@ I emphasize **clean architecture, real-time reliability, and scalable system des
 
 ### 🧑‍💻 Programming & Computer Science
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript" />
-
+- C , C++, Java, Python, HTML, CSS, Javascript
 - Data Structures & Algorithms  
 - Object-Oriented Programming (OOP)  
 - Software Development Lifecycle (SDLC)
