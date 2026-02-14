@@ -31,13 +31,17 @@ I emphasize **clean architecture, real-time reliability, and scalable system des
 <td width="65%" valign="top">
 
 ### 🧑‍💻 Programming & Computer Science
+<br>
+
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript" />
-<ul>
-<li>C, C++, Java, Python, HTML, CSS, JavaScript</li>
-<li>Data Structures & Algorithms</li>
-<li>Object-Oriented Programming (OOP)</li>
-<li>Software Development Lifecycle (SDLC)</li>
-</ul>
+<br><br>
+
+- C, C++, Java, Python, HTML, CSS, JavaScript  
+- Data Structures & Algorithms  
+- Object-Oriented Programming (OOP)  
+- Software Development Lifecycle (SDLC)
+
+</td>
 <td width="35%" align="center">
 
 <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" />
@@ -70,7 +74,7 @@ I emphasize **clean architecture, real-time reliability, and scalable system des
 ---
 
 ### 🛠️ Systems & Tools
-<img src="https://skillicons.dev/icons?i=git,github,linux,mysql" />
+<img src="https://skillicons.dev/icons?i=git,github,linux" />
 
 - DBMS, Operating Systems, Computer Networks  
 - Git & GitHub (version control, collaboration)  
