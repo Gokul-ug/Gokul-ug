@@ -55,7 +55,7 @@ I emphasize **clean architecture, real-time reliability, and scalable system des
 ### 🔌 IoT & Embedded Systems
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
 
-- ESP32, Arduino  
+- ESP8266, ESP32, Arduino, Raspberry pi
 - Sensor integration & calibration  
 - Real-time monitoring and automation  
 - Event-driven control systems  
