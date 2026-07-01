@@ -51,6 +51,22 @@ I emphasize **clean architecture, real-time reliability, and scalable system des
 </table>
 
 ---
+---
+
+### 📊 Data Analytics & Data Engineering
+<img src="https://skillicons.dev/icons?i=python,mysql,postgresql" />
+
+- SQL (MySQL, PostgreSQL), Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Data Cleaning, Data Transformation & Exploratory Data Analysis (EDA)
+- Databricks, Apache Spark (PySpark), Spark SQL
+- Delta Lake & Medallion Architecture (Bronze, Silver, Gold)
+- ETL/ELT Pipeline Development & Data Warehousing
+- Power BI (Data Modeling, DAX, Interactive Dashboards & Reports)
+- Workflow Automation & Scheduled Data Pipelines
+- Version Control (Git, GitHub)
+
+---
+---
 
 ### 🔌 IoT & Embedded Systems
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
