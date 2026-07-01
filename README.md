@@ -51,7 +51,6 @@ I emphasize **clean architecture, real-time reliability, and scalable system des
 </table>
 
 ---
----
 
 ### 📊 Data Analytics & Data Engineering
 <img src="https://skillicons.dev/icons?i=python,mysql,postgresql" />
@@ -64,8 +63,6 @@ I emphasize **clean architecture, real-time reliability, and scalable system des
 - Power BI (Data Modeling, DAX, Interactive Dashboards & Reports)
 - Workflow Automation & Scheduled Data Pipelines
 - Version Control (Git, GitHub)
-
----
 ---
 
 ### 🔌 IoT & Embedded Systems
