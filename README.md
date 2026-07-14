@@ -57,12 +57,10 @@ I emphasize **clean architecture, real-time reliability, and scalable system des
 
 - SQL (MySQL, PostgreSQL), Python (Pandas, NumPy, Matplotlib, Seaborn)
 - Data Cleaning, Data Transformation & Exploratory Data Analysis (EDA)
-- Databricks, Apache Spark (PySpark), Spark SQL
 - Delta Lake & Medallion Architecture (Bronze, Silver, Gold)
 - ETL/ELT Pipeline Development & Data Warehousing
 - Power BI (Data Modeling, DAX, Interactive Dashboards & Reports)
 - Workflow Automation & Scheduled Data Pipelines
-- Version Control (Git, GitHub)
 ---
 
 ### 🔌 IoT & Embedded Systems
@@ -95,18 +93,8 @@ I emphasize **clean architecture, real-time reliability, and scalable system des
 
 ---
 
-### 🤝 Professional Strengths
-- Analytical thinking and problem solving  
-- Team collaboration and communication  
-- Time management and ownership  
-- End-to-end project execution  
-
----
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" />
 </p>
 
 ---
-
-📌 *Always building systems that connect the physical world with intelligent software.*
