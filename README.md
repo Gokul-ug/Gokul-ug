@@ -1,5 +1,5 @@
 # 👋 Gokul U  
-### Software Developer | IoT & Embedded Systems | AI & Computer Vision
+### Software Developer | AI & Computer Vision | LLM/RAG | IoT & Embedded Systems
 
 <table>
 <tr>
