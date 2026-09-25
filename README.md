@@ -31,9 +31,6 @@ I emphasize **clean architecture, real-time reliability, and scalable system des
 <td width="65%" valign="top">
 
 ### 🧑‍💻 Programming & Computer Science
-<br>
-<br><br>
-
 - C, C++, Java, Python, HTML, CSS, JavaScript  
 - Data Structures & Algorithms  
 - Object-Oriented Programming (OOP)  
