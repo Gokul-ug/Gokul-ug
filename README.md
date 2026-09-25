@@ -52,19 +52,8 @@ I emphasize **clean architecture, real-time reliability, and scalable system des
 
 ---
 
-### 📊 Data Analytics & Data Engineering
-<img src="https://skillicons.dev/icons?i=python,mysql,postgresql" />
-
-- SQL (MySQL, PostgreSQL), Python (Pandas, NumPy, Matplotlib, Seaborn)
-- Data Cleaning, Data Transformation & Exploratory Data Analysis (EDA)
-- Delta Lake & Medallion Architecture (Bronze, Silver, Gold)
-- ETL/ELT Pipeline Development & Data Warehousing
-- Power BI (Data Modeling, DAX, Interactive Dashboards & Reports)
-- Workflow Automation & Scheduled Data Pipelines
----
 
 ### 🔌 IoT & Embedded Systems
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
 
 - ESP8266, ESP32, Arduino, Raspberry pi
 - Sensor integration & calibration  
@@ -75,7 +64,6 @@ I emphasize **clean architecture, real-time reliability, and scalable system des
 ---
 
 ### 🤖 AI, Machine Learning & Computer Vision
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv,python" />
 
 - Machine Learning fundamentals  
 - Convolutional Neural Networks (CNNs)  
@@ -84,17 +72,3 @@ I emphasize **clean architecture, real-time reliability, and scalable system des
 
 ---
 
-### 🛠️ Systems & Tools
-<img src="https://skillicons.dev/icons?i=git,github,linux" />
-
-- DBMS, Operating Systems, Computer Networks  
-- Git & GitHub (version control, collaboration)  
-- Linux (Basics)  
-
----
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" />
-</p>
-
----
