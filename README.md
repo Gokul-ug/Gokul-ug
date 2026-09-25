@@ -26,25 +26,11 @@ I emphasize **clean architecture, real-time reliability, and scalable system des
 
 ## 🧠 Technical Expertise
 
-<table>
-<tr>
-<td width="65%" valign="top">
-
 ### 🧑‍💻 Programming & Computer Science
-- C, C++, Java, Python, HTML, CSS, JavaScript  
+- C, C++, Java, Python, SQL, HTML, CSS, JavaScript  
 - Data Structures & Algorithms  
 - Object-Oriented Programming (OOP)  
 - Software Development Lifecycle (SDLC)
-
-</td>
-<td width="35%" align="center">
-
-<img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" />
-
-</td>
-</tr>
-</table>
-
 ---
 
 
